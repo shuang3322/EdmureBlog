@@ -6,5 +6,10 @@
       <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
       <introspection-schemas>*:</introspection-schemas>
     </data-source>
+    <data-source name="Django default" uuid="4b81c51f-51e2-444e-a327-b4a0f4832ae1">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <auth-required>false</auth-required>
+      <first-sync>true</first-sync>
+    </data-source>
   </component>
 </project>
